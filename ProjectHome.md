@@ -1,0 +1,1 @@
+Classe de calculo de data e hora projetada com base uma data/hora inicial, calculando períodos válidos, feriados móveis e fixos, e horas adicionais
